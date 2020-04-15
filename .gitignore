@@ -10,3 +10,4 @@ gen
 *.aux
 *.log
 *.synctex*
+/venv/
